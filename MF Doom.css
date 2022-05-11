@@ -18,12 +18,11 @@ input{
     font-size: 20px;
 }
 nav{
-    background-color: green;
     background-image: url("calafate2.jpg");
 }
 #caja1 {
     text-align:left;
-    background-image: url("calafate.jpg");
+    background-image: url("descarga.jpg");
     opacity: 0.6;
     height: 800px;
     width: 1225px;
@@ -35,7 +34,7 @@ nav{
 }
 #caja2 {
     text-align: center;
-    background-image: url("calafate2.jpg");
+    background-image: url("descarga.jpg");
     opacity: 0.6;
     float:right;
     font-size: 17px;
